@@ -7,7 +7,7 @@ You can find solved problems from multiple sources and challenges from different
 - [Data Structures](JS/data-structures)
 - [Javascript Algorithms and Data Structures - FreeCodeCamp](JS/javascript-algorithms-and-data-structures-freecodecamp)
 - [JSchallenger](JS/js-challenger)
-- [Programming Hero](JS/js/programming-hero)
+- [Programming Hero](JS/programming-hero)
 
 > **Python**
 
