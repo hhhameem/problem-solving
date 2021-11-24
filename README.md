@@ -4,11 +4,11 @@ You can find solved problems from multiple sources and challenges from different
 
 > **JavaScript**
 
-- [Data Structures](./js/data-structures)
-- [Javascript Algorithms and Data Structures - FreeCodeCamp](./js/javascript-algorithms-and-data-structures-freecodecamp)
-- [JSchallenger](./js/js-challenger)
-- [Programming Hero](./js/programming-hero)
+- [Data Structures](tree/main/JS/data-structures)
+- [Javascript Algorithms and Data Structures - FreeCodeCamp](tree/main/JS/javascript-algorithms-and-data-structures-freecodecamp)
+- [JSchallenger](tree/main/JS/js-challenger)
+- [Programming Hero](tree/main/JS/js/programming-hero)
 
 > **Python**
 
-- [Python For Everybody](./python\py4e)
+- [Python For Everybody](/tree/main/Python\py4e)
