@@ -11,4 +11,4 @@ You can find solved problems from multiple sources and challenges from different
 
 > **Python**
 
-- [Python For Everybody](Python/py4e)
+- [Python For Everybody](Python/PY4E)
