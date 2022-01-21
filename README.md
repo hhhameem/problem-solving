@@ -8,6 +8,7 @@ You can find solved problems from multiple sources and challenges from different
 - [Javascript Algorithms and Data Structures - FreeCodeCamp](JS/javascript-algorithms-and-data-structures-freecodecamp)
 - [JSchallenger](JS/js-challenger)
 - [Programming Hero](JS/programming-hero)
+- [Online Technical Tests for job](JS/online-technical-tests)
 
 > **Python**
 
